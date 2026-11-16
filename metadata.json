@@ -1,0 +1,6 @@
+{
+  "name": "FinPulse",
+  "description": "AI-powered SMS organizer and personal finance tracker with automatic transaction extraction, smart budgets, subscription detection, CSV export, and Gemini financial insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

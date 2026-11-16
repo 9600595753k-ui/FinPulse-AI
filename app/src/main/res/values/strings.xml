@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FinPulse</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_sms">SMS Inbox</string>
+    <string name="nav_transactions">Transactions</string>
+    <string name="nav_budgets">Budgets</string>
+    <string name="nav_subscriptions">Subscriptions</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_assistant">AI Assistant</string>
+    <string name="nav_settings">Settings</string>
+    <string name="privacy_notice">All SMS parsing, OTP filtering, and AES-256-GCM vault encryption happen 100% locally on your device. OTPs and raw personal SMS never leave your phone.</string>
+</resources>
